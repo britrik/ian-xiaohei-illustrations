@@ -8,7 +8,7 @@ Choose one structure — don't mix too many.
 
 Suitable for: Input -> Process -> Output, content production, AI workflows, automation chains.
 
-Drawing: Input on the left, Xiaohei or a weird machine in the middle, output on the right, orange arrows expressing main flow direction.
+Drawing: Input on the FAR LEFT, Xiaohei or a weird machine in the MIDDLE, output on the FAR RIGHT, orange arrows pointing RIGHT expressing main flow direction.
 
 ### System Detail
 
@@ -20,7 +20,7 @@ Drawing: Only 3-5 core modules, Xiaohei participates in one key action.
 
 Suitable for: Chaos/orderly, manual/automatic, scattered/ gathered, anxious/stable.
 
-Drawing: Left = chaos, right = stable, orange arrow in the middle. Characters can be more exaggerated.
+Drawing: LEFT side = chaos, RIGHT side = stable, orange arrow pointing RIGHT in the middle. Characters can be more exaggerated.
 
 ### Character State
 
@@ -44,13 +44,24 @@ Drawing: Layered boxes, not formal pyramids; Xiaohei bricks or builds nearby.
 
 Suitable for: Idea to launch, user path, content handoff path, learning route.
 
-Drawing: One curved path, few nodes, Xiaohei pulling wire or walking.
+Drawing: One curved path flowing LEFT TO RIGHT, few nodes, Xiaohei pulling wire or walking RIGHTWARD.
 
 ### Mini Comic Panels
 
 Suitable for: Failure to success, real process,吐槽, before/after changes.
 
 Drawing: 2-4 small scenes, each panel expressing one action.
+
+## Flow Direction Rule
+
+All structure types use LEFT-TO-RIGHT flow (Western reading direction):
+
+- Input / source / chaos / "before" → ALWAYS on the LEFT side
+- Process / Xiaohei / action → ALWAYS in the CENTER
+- Output / result / stable / "after" → ALWAYS on the RIGHT side
+- Orange arrows → ALWAYS point RIGHTWARD
+
+Never generate right-to-left flow. Never put output on the left and input on the right.
 
 ## Original Metaphor Generation Method
 

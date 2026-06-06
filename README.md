@@ -67,6 +67,7 @@ This skill uses Ian's "Xiaohei Absurd Inline Illustration" style by default:
 - One image expresses only one core action, structure, state, or metaphor
 - Xiaohei must participate in the core action, not just decorate
 - Absurd, creative, crisp — but not childish, not cutesy
+- **Flow direction: Left-to-right** — input/source on left, process in center, output/result on right. Orange arrows always point rightward (Western reading convention).
 
 ---
 

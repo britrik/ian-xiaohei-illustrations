@@ -17,11 +17,14 @@ Theme:
 Structure type:
 {structure type: Workflow / System Detail / Before-After / Character State / Conceptual Metaphor / Method Layers / Map Route / Mini Comic}
 
+Flow direction:
+Left-to-right (Western reading convention). All action, information flow, paths, and arrows must move from LEFT to RIGHT. Input/source on the left side, processing in the center, output/result on the right side. Never right-to-left.
+
 Core idea:
 {core meaning this image expresses}
 
 Composition:
-{specific scene: where is Xiaohei, what is he doing, what is the main object, how does information flow}
+{specific scene: where is Xiaohei, what is he doing, what is the main object, how does information flow — must be LEFT TO RIGHT with input on the left and output on the right}
 
 Suggested elements:
 {element1} / {element2} / {element3} / {element4}

@@ -20,7 +20,7 @@ Like a long-time AI, product, design, or dev tools person, casually sketching an
 
 - Black: main line art, character, frame lines, structure, main text, primary objects.
 - Red: key annotations, problems, emotional points, critical reminders, results.
-- Orange: main flow, paths, arrows, automation direction, A-to-B movement relationships.
+- Orange: main flow, paths, arrows — always flowing LEFT TO RIGHT (Western A→B direction). Never right-to-left.
 - Blue: supplementary notes, mental states, system states, second-layer explanations, AI/assistant/automation hints.
 
 Blue is not required on every image. Colors should be restrained — better too few than too many.

@@ -20,6 +20,7 @@
 If any of the following appear, regenerate or edit locally:
 
 - Top-left titles like "Common Pitfalls / Workflow / System Architecture / Roadmap".
+- Flow direction is right-to-left instead of left-to-right (Western reading convention; input must be on left, output on right, arrows pointing right)
 - Xiaohei looks like a mascot, sticker, or cute cartoon.
 - Image looks like PPT, course slide, or formal flowchart.
 - Too many elements, arrows, or nodes.
@@ -32,6 +33,7 @@ If any of the following appear, regenerate or edit locally:
 
 ## Iteration Methods
 
+- RTL flow detected: Regenerate with explicit instruction "left-to-right flow, input on left, output on right, arrows pointing rightward". If still RTL, simplify to fewer elements.
 - Too ordinary: Make Xiaohei the action subject, add a weird but plausible metaphor.
 - Too complex: Remove nodes, keep only one action and 3-5 short annotations.
 - Too cute: Emphasize deadpan, blank serious expression, not cute, not mascot.
